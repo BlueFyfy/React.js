@@ -1,6 +1,6 @@
 # React.js
 
-Learn React while practicing step by step
+Practice React while learning step by step
 
 
 
