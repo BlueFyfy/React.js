@@ -1,0 +1,17 @@
+* {
+  background-color: papayawhip;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+  border-radius: 50px;
+}
+
+.my-style {
+  color: orchid;
+  font-family: "Andale Mono", AndaleMono, monospace;
+}
+h1 {
+  color: purple;
+}
