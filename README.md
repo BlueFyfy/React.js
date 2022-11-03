@@ -13,3 +13,6 @@ https://reactjs.org/tutorial/tutorial.html
 https://ejs.co/
 
 https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/
+
+Destructuring assignment：
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
